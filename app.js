@@ -5,7 +5,7 @@ const btn = document.querySelector(".btn");
 const words = [
   "Welcome to BNBWU Sukkur",
   "What is Web engineering?",
-  "What Sofrwre engineering?",
+  "What Software engineering?",
   "What is Programming Language?",
   "What's your name?",
   "The quick brown fox jumps over the lazy dog",
@@ -16,7 +16,7 @@ const words = [
   "Why do you wanna become a programmer?",
   "Which programming language you like the most?",
   "What is Golang? and why do you wanna learn it?",
-  "Made by Tasleem Baloch",
+  "Made by Tasleem Bibi",
 ];
 
 const game = {
